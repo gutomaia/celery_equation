@@ -1,0 +1,11 @@
+*.egg-info/
+*.pyc
+.checkpoint/
+.coverage
+.pytest_cache/
+.tox
+coverage.xml
+dist/
+github.mk
+python.mk
+venv/
